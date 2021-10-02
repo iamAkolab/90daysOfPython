@@ -1,6 +1,5 @@
 <h1> This is a beginners course </h1>
 <ul>
-  <li>Coffee</li>
   <li>Introduction to Python</li>
   <li>Strings, Lists and Tuples</li>
   <li>Dictionaries and Sets</li>
