@@ -9,5 +9,5 @@
   <li>String Formating</li>
   <li>List slicing</li>
   <li>Environment Management</li>
-  <li>Dunder Methods like --init</li>
+  <li>Dunder Methods like __init__</li>
 </ul>
