@@ -9,5 +9,4 @@
   <li>Functions</li>
   <li>Modules</li>
   <li>Scopes and Namespaces</li>
-  <li>Classes and Constructors</li>
 </ul>
