@@ -43,3 +43,42 @@ print temp
 temp = arr.index(3)
 print temp
 # prints 2
+
+# -------------------------------------------------
+# PracticePythonBasic Data TypesLists
+# --------------------------------------------------
+if __name__ == '__main__':
+    N = int(input())
+    
+    user_array = [];
+    
+    for i in range(0,N):
+        user_input = input().split();
+        
+        # user types insert
+        if user_input[0] == "insert":
+            user_array.insert(int(user_input[1]), int(user_input[2]))
+        
+        # user types print
+        elif user_input[0] == "print":
+            print(user_array)
+            
+        # user types remove
+        elif user_input[0] == "remove":
+            user_array.remove(int(user_input[1]))
+            
+        # user types append
+        elif user_input[0] == "append":
+            user_array.append(int(user_input[1]))
+            
+        # user types sort
+        elif user_input[0] == "sort":
+            user_array.sort()
+        
+        # user types pop
+        elif user_input[0] == "pop":
+            user_array.pop()
+        
+        # user types reverse
+        else :
+            user_array.reverse()       
