@@ -4,8 +4,7 @@
   <li>Strings, Lists and Tuples</li>
   <li>Dictionaries and Sets</li>
   <li>Conditional Execution & Loops</li>
-  <li>Comprehensions</li>
-  <li>Comprehensions</li>
+  <li>List Comprehensions</li>
   <li>Functions</li>
   <li>Modules</li>
   <li>Scopes and Namespaces</li>
