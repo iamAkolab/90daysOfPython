@@ -18,6 +18,7 @@ Print list or stack
 
 #!/bin/python3
 
+
 import math
 import os
 import random
@@ -27,19 +28,19 @@ import sys
 
 
 if __name__ == '__main__':
-    n = int(input().strip())
+    user_input = int(input().strip())
 
-    rmd = []
+    array_remainder = []
     
-    while n > 0:
-        rm = n % 2
-        n = n//2
-        rmd.append(rm)
+    while user_input > 0:
+        remainder = user_input % 2
+        user_input = user_input//2
+        array_remainder.append(remainder)
     
     count,result = 0,0
     
-    for i in range(0,len(rmd)):
-        if rmd[i] == 0:
+    for i in range(0,len(array_remainder)):
+        if array_remainder[i] == 0:
             count = 0
         else:
             count +=1
