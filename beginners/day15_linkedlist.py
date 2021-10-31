@@ -42,9 +42,9 @@ First the code returns a new node that contains the data value 2 as the head of 
 
 """
 
-# ========================
-#         Solution
-# ========================
+# ========================== #
+#         Solution           #
+# ========================== #
 
 class Node:
     def __init__(self,data):
