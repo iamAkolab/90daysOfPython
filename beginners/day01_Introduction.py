@@ -1,12 +1,16 @@
 # Extracted from https://en.wikipedia.org/wiki/Python_(programming_language)
 
+
 # Python is an interpreted high-level general-purpose programming language. 
+
+
 # Its design philosophy emphasizes code readability with its use of significant indentation. 
 # Its language constructs as well as its object-oriented approach aim to help programmers 
 # write clear, logical code for small and large-scale projects
 
 # Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), 
 # object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.[31]
+
 
 # Guido van Rossum began working on Python in the late 1980s, as a successor to the ABC programming language, 
 # and first released it in 1991 as Python 0.9.0.[32] Python 2.0 was released in 2000 and introduced new features, 
