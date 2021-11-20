@@ -1,3 +1,6 @@
+# dictionary
+
+
 # A dictionary is a data type which stores values in pairs. 
 # For each element in the dictionary, there is a unique key that points to a value. 
 # A dictionary is mutable. It can be changed.
