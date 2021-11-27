@@ -51,6 +51,12 @@ T3: One of the inputs (-1) is negative, so power throws an exception and n and p
 # ========================== #
 #         Solution           #
 # ========================== #
+class Calculator:
+    def power(self,a,b):
+        if(a<0 or b<0):
+            raise RuntimeError("n and p should be non-negative")
+        else:
+            return a**b
 
 myCalculator=Calculator()
 T=int(input())
