@@ -49,9 +49,11 @@ import sys
 
 
 
-if __name__ == '__main__':
+if __name__ == '__main__': # this part was removed for it to work
+    S = input().strip()
     try:
-        print(int(input()))
+        x  = int(S)
+        print(int(x)
     except ValueError:
         print("Bad String")
       
