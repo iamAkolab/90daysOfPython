@@ -1,4 +1,4 @@
-#Arrays
+# Arrays
 # A type of data structure that stores elements of the same type 
 # You can think of an array, A , of size  N as a contiguous block of cells sequentially indexed from 0 to  1 
 # which serve as containers for elements of the array's declared data type
