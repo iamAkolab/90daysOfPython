@@ -77,4 +77,17 @@ head=None
 for i in range(T):
     data=int(input())
     head=mylist.insert(head,data)    
-mylist.display(head); 	  
+mylist.display(head); 
+
+
+#------------------------------------------------------------------------------------------------------------------------------------
+# better version
+# Use String Indexing in Python to check if a String is a Palindrome
+a_string = 'Was it a car or a cat I saw'
+
+def palindrome(string):
+    string = string.lower().replace(' ', '')
+    return string == string[::-1]
+
+print(palindrome(a_string))
+# Returns: True
