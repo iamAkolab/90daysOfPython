@@ -2,7 +2,8 @@
 """
 The AdvancedArithmetic interface and the method declaration for the abstract divisorSum(n) method are provided for you in the editor below.
 
-Complete the implementation of Calculator class, which implements the AdvancedArithmetic interface. The implementation for the divisorSum(n) method must return the sum of all divisors of n.
+Complete the implementation of Calculator class, which implements the AdvancedArithmetic interface. 
+The implementation for the divisorSum(n) method must return the sum of all divisors of n.
 
 Example
 n = 25
@@ -33,3 +34,4 @@ The integer 6 is evenly divisible by 1, 2, 3, and 6. Our divisorSum method shoul
 # ========================== #
 #         Solution           #
 # ========================== #
+
