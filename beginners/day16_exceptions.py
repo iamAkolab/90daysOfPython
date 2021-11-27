@@ -54,5 +54,6 @@ if __name__ == '__main__':
         print(int(input()))
     except ValueError:
         print("Bad String")
-Sample Case  does not contain any integers, so an attempt to convert it to an integer will raise an exception. Thus, our exception handler prints Bad String.
+      
+# Sample Case  does not contain any integers, so an attempt to convert it to an integer will raise an exception. Thus, our exception handler prints Bad String.
 """
