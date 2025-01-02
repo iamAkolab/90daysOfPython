@@ -1,4 +1,4 @@
-<h1> This is a beginners course. </h1>
+<h1> .This is a beginners course. </h1>
 <ul>
   <li>Introduction to Python</li>
   <li>Strings, Lists and Tuples</li>
